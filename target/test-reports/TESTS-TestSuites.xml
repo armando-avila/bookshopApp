@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="1" hostname="sse-uids-javilaes" id="0" name="BookTests" package="org.example.bookshopApp" tests="1" time="0.695" timestamp="2016-09-14T23:39:45">
+      <properties />
+
+      <testcase classname="org.example.bookshopApp.BookTests" name="testSomething" time="0.665">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at org.example.bookshopApp.BookTests.testSomething(BookTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

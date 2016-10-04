@@ -1,0 +1,39 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.input ul{
+	background: #FDA9A9;
+}
+
+.textTop{
+	vertical-align: top;
+}
+
+.width900{
+	width: 900px;
+}
+
+.width300{
+	width: 300px;
+}
+
+.width50p{
+	width: 50%;
+}
+
+.floatLeft{
+	float: left;
+}
+
+.floatRight{
+	float: right;
+}
+
+.alignRight{
+	text-align: right;
+}
